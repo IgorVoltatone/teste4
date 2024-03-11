@@ -1,0 +1,46 @@
+body {
+    background: linear-gradient(to right, black, rgb(135, 30, 30));
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+    h1 {
+        text-align: center;
+        color: red;
+        font-size: 70px;
+    }
+
+    h2 {
+        text-align: left;
+        color: red;
+    }
+
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
+
+.corner-image01 {
+    position: absolute;
+    top: 2px;
+    left: 40px;
+    width: 250px;
+    height: auto;
+}
+
+.corner-image02 {
+    position: absolute;
+    top: 0px;
+    right: 30px;
+    width: 240px;
+    height: auto;
+}
+
+nav {
+    text-align: right;
+}
+
+footer {
+    color: white;
+    text-align: center;
+}
